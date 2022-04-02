@@ -1,7 +1,8 @@
 # ToyRobot
 This is a C# console application developed using Visual Studio Community 2019 for Mac. 
 
-Please clone the repository and run the codes in your local machine.
+Please clone the repository and open the solution file in your installed Visual Studio.
+Make sure to Build > Clean All then run the codes in your local machine.  
 
 Unit tests and integration tests are also included.
 

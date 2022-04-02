@@ -6,5 +6,5 @@ Make sure to Build > Clean All then run the codes in your local machine.
 
 Unit tests and integration tests are also included.
 
-When running the application in terminal or command line, make sure the commands are CAPITALIZED.
+When running the application in terminal or in command line, make sure the commands[MOVE | PLACE | LEFT | RIGHT] are CAPITALIZED.
 

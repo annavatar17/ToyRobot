@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyRobot", "ToyRobot\ToyRobot.csproj", "{C49E6210-BF42-4536-A0EF-0D5777E1EB78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyRobot.UnitTests", "ToyRobot.UnitTests\ToyRobot.UnitTests.csproj", "{E51A5C0A-A8A0-43E1-806B-300D3A6CAF4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyRobot.IntegrationTests", "IntegrationTests\ToyRobot.IntegrationTests.csproj", "{6527585B-DF39-45DB-A220-F470A0BB130F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C49E6210-BF42-4536-A0EF-0D5777E1EB78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C49E6210-BF42-4536-A0EF-0D5777E1EB78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C49E6210-BF42-4536-A0EF-0D5777E1EB78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C49E6210-BF42-4536-A0EF-0D5777E1EB78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E51A5C0A-A8A0-43E1-806B-300D3A6CAF4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E51A5C0A-A8A0-43E1-806B-300D3A6CAF4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E51A5C0A-A8A0-43E1-806B-300D3A6CAF4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E51A5C0A-A8A0-43E1-806B-300D3A6CAF4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6527585B-DF39-45DB-A220-F470A0BB130F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6527585B-DF39-45DB-A220-F470A0BB130F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6527585B-DF39-45DB-A220-F470A0BB130F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6527585B-DF39-45DB-A220-F470A0BB130F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+/Users/graceybautista/Documents/Grace/2022/Assignment/ToyRobot/ToyRobot/obj/Debug/netcoreapp3.1/Assignment.csproj.AssemblyReference.cache
+/Users/graceybautista/Documents/Grace/2022/Assignment/ToyRobot/ToyRobot/obj/Debug/netcoreapp3.1/Assignment.AssemblyInfoInputs.cache
+/Users/graceybautista/Documents/Grace/2022/Assignment/ToyRobot/ToyRobot/obj/Debug/netcoreapp3.1/Assignment.AssemblyInfo.cs
+/Users/graceybautista/Documents/Grace/2022/Assignment/ToyRobot/ToyRobot/obj/Debug/netcoreapp3.1/Assignment.csproj.CoreCompileInputs.cache
+/Users/graceybautista/Documents/Grace/2022/Assignment/ToyRobot/ToyRobot/bin/Debug/netcoreapp3.1/Assignment.deps.json
+/Users/graceybautista/Documents/Grace/2022/Assignment/ToyRobot/ToyRobot/bin/Debug/netcoreapp3.1/Assignment.runtimeconfig.json
+/Users/graceybautista/Documents/Grace/2022/Assignment/ToyRobot/ToyRobot/bin/Debug/netcoreapp3.1/Assignment.runtimeconfig.dev.json
+/Users/graceybautista/Documents/Grace/2022/Assignment/ToyRobot/ToyRobot/bin/Debug/netcoreapp3.1/Assignment.dll
+/Users/graceybautista/Documents/Grace/2022/Assignment/ToyRobot/ToyRobot/bin/Debug/netcoreapp3.1/Assignment.pdb
+/Users/graceybautista/Documents/Grace/2022/Assignment/ToyRobot/ToyRobot/obj/Debug/netcoreapp3.1/Assignment.dll
+/Users/graceybautista/Documents/Grace/2022/Assignment/ToyRobot/ToyRobot/obj/Debug/netcoreapp3.1/Assignment.pdb
+/Users/graceybautista/Documents/Grace/2022/Assignment/ToyRobot/ToyRobot/obj/Debug/netcoreapp3.1/Assignment.genruntimeconfig.cache

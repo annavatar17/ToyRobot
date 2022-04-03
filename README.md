@@ -48,3 +48,6 @@ REPORT
 
 Output: 3,3,NORTH
 
+# Screenshot
+![Screenshot](https://github.com/annavatar17/ToyRobot/blob/main/ToyRobotScreenShot.png)
+
